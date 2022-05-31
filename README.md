@@ -6,10 +6,10 @@ curl https://raw.githubusercontent.com/othmane451/xm/main/databricks.sh | sh
 ```
 * Try Free [XRDP GColab](https://bit.ly/XRDP-Colab)
 ```markdown
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-sg.sh | sh
+curl https://raw.githubusercontent.com/othmane451/xm/main/gcolab-sg.sh | sh
 ```
 ```markdown
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/gcolab-us.sh | sh
+curl https://raw.githubusercontent.com/othmane451/xm/main/nvidiacolab-us.sh | sh
 ```
 ```markdown
 curl https://raw.githubusercontent.com/a2nk/get-xmr/main/nvidiacolab-us.sh | sh
