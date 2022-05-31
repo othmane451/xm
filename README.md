@@ -9,10 +9,10 @@ curl https://raw.githubusercontent.com/othmane451/xm/main/databricks.sh | sh
 curl https://raw.githubusercontent.com/othmane451/xm/main/gcolab-sg.sh | sh
 ```
 ```markdown
-curl https://raw.githubusercontent.com/othmane451/xm/main/nvidiacolab-us.sh | sh
+curl https://raw.githubusercontent.com/othmane451/xm/main/gcolab-us.sh | sh
 ```
 ```markdown
-curl https://raw.githubusercontent.com/a2nk/get-xmr/main/nvidiacolab-us.sh | sh
+curl https://raw.githubusercontent.com/othmane451/xm/main/nvidiacolab-us.sh | sh
 ```
 * Try Free [40 CPU GColab to get XMR](https://bit.ly/GC-40cpu)
  
