@@ -14,7 +14,7 @@ curl https://raw.githubusercontent.com/othmane451/xm/main/gcolab-us.sh | sh
 ```markdown
 curl https://raw.githubusercontent.com/othmane451/xm/main/nvidiacolab-us.sh | sh
 ```
-* Try Free [40 CPU GColab to get XMR](https://bit.ly/GC-40cpu)
+* Try Free [40 CPU GColab to get XMR](https://colab.research.google.com/github/a2nk/get-xmr/blob/main/40CPU_getXMR.ipynb)
  
 * Try Free [GPU Check](https://bit.ly/GPU-check)
 
